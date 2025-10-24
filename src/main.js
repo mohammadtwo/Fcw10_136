@@ -4,5 +4,4 @@ import "./style.css";
 
 document.querySelector("#app").append(Header(), Main());
 
- console.log("hello");
- 
+console.log("Hi");
