@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
-body{
+body {
   background: #f0e2e2;
   font-size: xx-large;
-  padding: 30px;
+  padding: 100px;
 }
-nav{
+nav {
   background: #ff0000;
   background-color: #ffffff;
-padding: 5px;
+  padding: 5px;
 }
