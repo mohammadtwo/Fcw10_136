@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+body{
+  background: #f0e2e2;
+  font-size: large;
+  padding: 20px;
+}
+nav{
+  background: #790505;
+}
